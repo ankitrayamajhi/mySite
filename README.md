@@ -1,8 +1,6 @@
 **Website for Advertising My Skills**
 
-<a href="dujjwal.com.np">
-  # Website
-</a>
+<a href="https://dujjwal.com.np/">Website</a>
 
 <hr>
 Thank you for your contribution on my project.

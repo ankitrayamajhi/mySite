@@ -1,0 +1,3 @@
+while changing the section through navigation, the dark spot is not changing (stationary to home section).
+#solution: js needed to switch to active section.
+Better to replace price section with experience and work .
